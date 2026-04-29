@@ -1,7 +1,7 @@
 # MindPlus-Custom-Build-GeekServosSupport
 A Custom Build of Mind Plus for S1 Kit
 
-Οι αλλαγές έγιναν πάνω στο  Mind+ Custom Build του vmichas https://github.com/vmihas/MindPlus-Custom-Build
+Οι αλλαγές έγιναν πάνω στο  Mind+ Custom Build του vmihas https://github.com/vmihas/MindPlus-Custom-Build
 
 Προστέθηκαν οι εντολές ελέγχου των GeekServo Πράσινου και Γκρι <img width="281" height="248" alt="image" src="https://github.com/user-attachments/assets/f5a348a5-796b-4010-bc35-3b89981df916" />
 
