@@ -414,7 +414,7 @@ var Scratch3PolytechS1Blocks = /*#__PURE__*/function () {
             },
             SPEED: {
               type: ArgumentType.RANGE,
-              inputParams: { rangeMax: 90, rangeMin: 0 },
+              inputParams: { rangeMax: 100, rangeMin: 0 },
               defaultValue: 0,
               dfCheck: (0, _defineProperty2.default)({}, _index.LanguageCpp, DataType.NUMBER)
             }
@@ -1475,7 +1475,7 @@ var Scratch3PolytechS1Blocks = /*#__PURE__*/function () {
 	value: function stath1_green_motor(args, util) {
       if (!this.product.isReady()) return;
 	  	var pin = parseInt(args.PORT);
-		var speed = parseInt(args.SPEED);
+		var speed = parseInt(args.SPEED) * 0.9;
 		var direction = args.DIRECTION === 'HIGH' ? 1 : 0;
 		var firmata = this.product.board.connectScratch.firmata;
 
