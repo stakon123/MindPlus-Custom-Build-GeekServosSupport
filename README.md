@@ -1,3 +1,6 @@
+#Update: Για την εκδοση 2.0 του vmichas κατεβαστε το νεο app.asar
+
+
 # MindPlus-Custom-Build-GeekServosSupport
 A Custom Build of Mind Plus for S1 Kit
 
