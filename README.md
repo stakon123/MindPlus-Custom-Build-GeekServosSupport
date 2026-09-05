@@ -1,4 +1,4 @@
-#Update: Για την εκδοση 2.0 του vmichas κατεβαστε το νεο app.asar
+# Update: Για την εκδοση 2.0 του vmichas κατεβαστε το νεο app.asar
 
 
 # MindPlus-Custom-Build-GeekServosSupport
